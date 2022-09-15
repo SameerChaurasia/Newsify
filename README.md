@@ -1,4 +1,4 @@
-# newsify
+# NEWSIFY
 
 A new Flutter project.
 
