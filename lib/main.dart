@@ -1,12 +1,15 @@
 import 'package:flutter/material.dart';
-import 'package:newsify/home.dart';
+import 'package:newsify/splash_screen.dart';
+
 
 void main() {
-  runApp(const MyApp());
+  runApp( MyApp());
 }
 
 class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+
+
+
 
   // This widget is the root of your application.
   @override
@@ -16,7 +19,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Flutter Demo',
 
-      home: Home(),
+      home: SplashScreen(title: "Newsify"),
     );
   }
 }

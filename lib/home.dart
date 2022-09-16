@@ -30,7 +30,7 @@ class _HomeState extends State<Home> {
     Map element;
     int i = 0;
     String url =
-        "https://newsapi.org/v2/everything?q=$query&from=2022-09-10&to=2022-09-10&sortBy=popularity&apiKey=47c6fa23df884f6996bf8115c27ec79b";
+        "https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=47c6fa23df884f6996bf8115c27ec79b";
     Response response = await get(Uri.parse(url));
     Map data = jsonDecode(response.body);
     setState(() {
@@ -357,6 +357,7 @@ class _HomeState extends State<Home> {
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
                         ElevatedButton(
+                          
                             onPressed: () {
                               Navigator.push(
                                   context,
