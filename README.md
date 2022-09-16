@@ -1,16 +1,7 @@
 # NEWSIFY
 
-A new Flutter project.
+![fasd](https://user-images.githubusercontent.com/98682560/190724427-19878113-0c9f-4577-b715-4aab16deabfc.jpeg)
+![hiu](https://user-images.githubusercontent.com/98682560/190724174-a85583e3-4fd1-48c5-acb1-8b393b698fa7.jpeg)
+![yfuy](https://user-images.githubusercontent.com/98682560/190724273-b503f8bc-e6bf-4512-a53b-506aac365123.jpeg)
+![grsd](https://user-images.githubusercontent.com/98682560/190724372-90fc8c0a-0e45-403b-a414-4b553dd412d0.jpeg)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
